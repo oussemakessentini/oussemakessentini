@@ -98,7 +98,7 @@ Personal portfolio with:
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?user=oussemakessentini&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ Personal portfolio with:
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakessentini&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?user=oussemakessentini&layout=compact&theme=tokyonight" />
 </p>
 
 ---
