@@ -222,46 +222,31 @@ https://oussamaksantini.com
 
 ---
 
-<!-- ====================== STATS ====================== -->
 ## 📊 GitHub Stats
-
-```sql
-SELECT focus, projects, cloud_skills
-FROM   oussama.developer_journey
-WHERE  mode = 'building'
-ORDER  BY consistency DESC;
--- → building real-world cloud applications one project at a time ☕
-```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=oussemakessentini&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakessentini&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakessentini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=oussemakessentini&theme=tokyonight" alt="GitHub Streak" />
 
 </div>
-
 ---
 
 <!-- ====================== CONTRIBUTION GRAPH ====================== -->
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake.svg"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussemakessentini&theme=tokyo-night" alt="Contribution Graph" />
 
 </div>
-
 ---
 
 <!-- ====================== QUOTE ====================== -->
