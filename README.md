@@ -146,23 +146,35 @@ CI/CD        ✅
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=06b6d4"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=oussemakessentini&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=06b6d4&currStreakLabel=6366f1" alt="streak"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
-
-<h3 align="left">🐍 Contribution Snake</h3>
+## 🐍 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake-dark.svg" />
 
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake.svg" />
+
+  <img alt="snake animation"
+       src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake.svg" />
+
+</picture>
 
 </div>
 
