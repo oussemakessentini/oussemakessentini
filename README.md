@@ -16,7 +16,7 @@ Building scalable cloud-native applications with Java, Spring Boot, React, Docke
   <img src="https://skillicons.dev/icons?i=webflow" height="50"/>
 </a>
 
-<a href="mailto:oussamaksantini27@gmail.com">
+<a href="mailto:oussamaksantini@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
@@ -134,14 +134,13 @@ Nginx        ✅
 
 ---
 
-# 🏆 GitHub Achievements
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=oussemakessentini&theme=tokyonight&no-frame=true&row=1&column=6"/>
+![Snake animation](https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
 ---
 
 # 🎯 2026 Goals
@@ -158,7 +157,7 @@ Nginx        ✅
 
 <div align="left">
 
-📧 oussamaksantini27@gmail.com
+📧 oussamaksantini@gmail.com
 
 🌐 https://oussamaksantini.com
 
