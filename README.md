@@ -141,6 +141,8 @@ Nginx        ✅
 ![Snake animation](https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/output/github-contribution-grid-snake-dark.svg)
 
 </div>
+
+
 ---
 
 # 🎯 2026 Goals
