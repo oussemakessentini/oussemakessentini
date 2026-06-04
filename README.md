@@ -226,15 +226,14 @@ https://oussamaksantini.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/stats-output/stats.svg" height="150" alt="stats graph"  />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakessentini&layout=compact&theme=tokyonight" alt="Top Languages" />
-
+ <img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/languages-output/languages.svg" height="150" alt="languages graph"  />
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=oussemakessentini&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=oussemakessentini&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 
 </div>
 ---
@@ -244,7 +243,9 @@ https://oussamaksantini.com
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussemakessentini&theme=tokyo-night" alt="Contribution Graph" />
+
+<img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/snake-output/snake.svg" alt="Snake animation" />
+
 
 </div>
 ---
