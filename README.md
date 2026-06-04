@@ -1,274 +1,176 @@
-<!-- ====================== HEADER ====================== -->
 <div align="center">
 
-# Oussama Ksantini
+<img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
-#### `Software Engineer` · `Full Stack Developer` · `Cloud Enthusiast`
+# Hi 👋, I'm Oussama Ksantini
 
-<img src="https://img.shields.io/badge/-Building%20production--grade%20applications%20with%20Spring%20Boot%2C%20React%2C%20Docker%20%26%20AWS-0d1117?style=flat-square&labelColor=0d1117&color=6366f1" alt="tagline"/>
+### Software Engineer | Full Stack Developer | AWS Cloud Enthusiast
 
-<br/>
+Building cloud-native applications with Java, Spring Boot, React, Docker & AWS
 
-<p>
-  <a href="https://www.linkedin.com/in/oussama-ksantini">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://oussamaksantini.com">
-    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="mailto:oussama.ksantini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+</div>
 
+###
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/oussama-ksantini">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://oussamaksantini.com">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:oussama.ksantini@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+###
+
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=oussemakessentini.oussemakessentini"/>
 </div>
 
 ---
 
-<!-- ====================== ABOUT ====================== -->
-## 👋 About Me
+# 👨‍💻 About Me
 
-```javascript
-const oussama = {
-  role: "Software Engineer",
-  location: "United States 🇺🇸",
+I'm a Software Engineer passionate about building scalable and production-ready applications.
 
-  focus: [
-    "Full Stack Development",
-    "Cloud Computing",
-    "Production-ready Applications"
-  ],
-
-  backend: [
-    "Java",
-    "Spring Boot",
-    "Spring Security",
-    "Hibernate"
-  ],
-
-  frontend: [
-    "React",
-    "JavaScript",
-    "TypeScript",
-    "HTML/CSS"
-  ],
-
-  cloud: [
-    "AWS EC2",
-    "AWS RDS",
-    "AWS S3",
-    "CloudFront",
-    "Docker"
-  ],
-
-  devops: [
-    "GitHub Actions",
-    "CI/CD",
-    "Nginx",
-    "Linux"
-  ],
-
-  currently: "Building cloud-native applications and AWS projects 🚀",
-
-  goal: "Become a Senior Cloud & Software Engineer"
-};
-```
-
-- ☁️ Passionate about **AWS, cloud deployment, and DevOps**.
-- 💻 Building full-stack applications with **Spring Boot + React**.
-- 🐳 Deploying real projects using **Docker, EC2, RDS, S3, CloudFront, and GitHub Actions**.
-- 💬 Ask me about **Java, Spring Boot, React, PostgreSQL, Docker, AWS, and CI/CD**.
+- 🔭 Currently building cloud-native applications on AWS
+- ☁️ Working with AWS EC2, RDS, S3 and CloudFront
+- 💻 Full Stack Developer using Spring Boot & React
+- 🐳 Deploying applications with Docker and CI/CD pipelines
+- 📚 Preparing for AWS Cloud Practitioner & Solutions Architect certifications
+- 🎯 Goal: Become a Senior Cloud & Software Engineer
 
 ---
 
-<!-- ====================== TECH STACK ====================== -->
-## 🛠️ Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="140"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" alt="languages"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" alt="frontend"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=spring,maven&theme=dark" alt="backend"/>
-      <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" height="28"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" alt="databases"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140"><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,nginx&theme=dark" alt="cloud devops"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="140"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark" alt="tools"/>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- ====================== AWS JOURNEY ====================== -->
-## ☁️ AWS Journey
-
-```bash
-$ aws cloud-skills --profile oussama
-
-✅ EC2               Backend deployment with Docker
-✅ RDS PostgreSQL    Managed production database
-✅ S3                Static frontend hosting
-✅ CloudFront        CDN and HTTPS frontend delivery
-✅ ACM / SSL         HTTPS certificates and secure APIs
-✅ IAM               Deployment user and permissions
-✅ Nginx             Reverse proxy for backend APIs
-✅ GitHub Actions    Frontend and backend CI/CD
-```
-
-Currently preparing for:
-
-- AWS Cloud Practitioner
-- AWS AI Practitioner
-- AWS Solutions Architect Associate
-
----
-
-<!-- ====================== FEATURED PROJECTS ====================== -->
-## 🚀 Featured Projects
-
-```bash
-$ git log --author="oussama" --oneline --shortstat
-
-★ SecureAuth Cloud       Enterprise authentication platform deployed on AWS
-★ MyPortfolio            Full-stack portfolio platform with admin dashboard
-★ Jewelry Management     Cloud-based jewelry inventory and BI system
-★ Task Manager           Spring Boot + React productivity application
-★ AWS Deployment Lab     EC2 + RDS + S3 + CloudFront + CI/CD practice
-```
-
-<div align="center">
-
-[`SecureAuth Cloud`](https://github.com/oussemakessentini/secureauth-cloud) ·
-[`MyPortfolio`](https://github.com/oussemakessentini/MyPortfolio) ·
-[`Portfolio Website`](https://oussamaksantini.com)
-
-</div>
-
----
+# 🚀 Featured Projects
 
 ## 🔐 SecureAuth Cloud
 
-Enterprise-grade authentication and authorization platform.
+Enterprise Authentication Platform deployed on AWS.
 
-**Built with:**
+### Highlights
 
-`Spring Boot` · `React` · `PostgreSQL` · `Docker` · `AWS EC2` · `AWS RDS` · `AWS S3` · `CloudFront` · `GitHub Actions`
-
-**Features:**
-
-- JWT authentication
-- Refresh tokens
-- Email verification
-- Forgot/reset password
-- Role-based access control
-- Admin user management
-- Docker deployment
-- HTTPS API domain
+- JWT Authentication
+- Refresh Tokens
+- Email Verification
+- Password Reset
+- Role-Based Access Control
+- Docker Deployment
+- AWS EC2
+- AWS RDS
+- AWS S3 + CloudFront
 - GitHub Actions CI/CD
-- Spring Boot Actuator health checks
 
-🔗 Repository:  
-https://github.com/oussemakessentini/secureauth-cloud
+🌐 Live Demo
 
-🌐 Live Demo:  
 https://d2qjp6t40zpdom.cloudfront.net
+
+🔗 Repository
+
+https://github.com/oussemakessentini/secureauth-cloud
 
 ---
 
-## 🌐 My Portfolio Website
+## 🌐 Personal Portfolio Platform
 
-Personal portfolio platform with a custom admin dashboard for managing projects, education, certificates, experience, and skills.
+Full Stack Portfolio Management System.
 
-**Built with:**
+### Features
 
-`Spring Boot` · `React` · `PostgreSQL` · `Cloudflare R2` · `Docker` · `AWS EC2`
+- Dynamic Project Management
+- Education Management
+- Certificate Management
+- Experience Management
+- Cloud Storage Integration
+- Secure Admin Dashboard
 
-🌐 Website:  
+🌐 Website
+
 https://oussamaksantini.com
 
 ---
 
-## 📊 GitHub Stats
+# 🛠️ Languages & Tools
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/stats-output/stats.svg" height="150" alt="stats graph"  />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css"/>
 
 <br/><br/>
 
- <img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/languages-output/languages.svg" height="150" alt="languages graph"  />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=oussemakessentini&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git"/>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,postman"/>
 
 </div>
+
 ---
 
-<!-- ====================== CONTRIBUTION GRAPH ====================== -->
-## 📈 Contribution Graph
+# ☁️ AWS Experience
+
+```text
+EC2          ✅
+RDS          ✅
+S3           ✅
+CloudFront   ✅
+ACM SSL      ✅
+Docker       ✅
+Nginx        ✅
+CI/CD        ✅
+```
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://raw.githubusercontent.com/oussemakessentini/oussemakessentini/snake-output/snake.svg" alt="Snake animation" />
+<br/>
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakessentini&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
+
 ---
 
-<!-- ====================== QUOTE ====================== -->
+# 📈 Contribution Graph
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  <img alt="quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussemakessentini&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-<!-- ====================== CONTACT ====================== -->
-## 🤝 Let's Connect
+# 🎯 2026 Goals
+
+- AWS Cloud Practitioner
+- AWS AI Practitioner
+- AWS Solutions Architect Associate
+- Build multiple AWS production projects
+- Contribute to Open Source
+
+---
+
+# 🤝 Let's Connect
 
 ```bash
-$ echo "Let's build something great together 🚀"
-
 $ whoami
 
 Software Engineer
@@ -282,26 +184,16 @@ Open to:
 - Open Source Collaboration
 ```
 
+📧 oussama.ksantini@gmail.com
+
+🌐 https://oussamaksantini.com
+
+💼 https://www.linkedin.com/in/oussama-ksantini
+
+---
+
 <div align="center">
 
-If you like my work, consider following and dropping a ⭐ on the projects you find useful!
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/oussama-ksantini">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://oussamaksantini.com">
-  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-
-<a href="mailto:oussama.ksantini@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:6366f1&height=120&section=footer" alt="footer"/>
+⭐ Thanks for visiting my profile!
 
 </div>
