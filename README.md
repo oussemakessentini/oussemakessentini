@@ -99,22 +99,34 @@ https://oussamaksantini.com
 
 # 🛠️ Languages & Tools
 
-<div align="center">
+<h3 align="left">⚙️ Backend</h3>
 
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,html,css"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" />
+</div>
 
-<br/><br/>
+<h3 align="left">🎨 Frontend</h3>
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap" />
+</div>
 
-<br/><br/>
+<h3 align="left">🗄️ Databases</h3>
 
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,linux,git"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</div>
 
-<br/><br/>
+<h3 align="left">☁️ Cloud & DevOps</h3>
 
-<img src="https://skillicons.dev/icons?i=idea,vscode,postman"/>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,nginx" />
+</div>
 
+<h3 align="left">🧰 Tools</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=idea,vscode,postman" />
 </div>
 
 ---
@@ -137,22 +149,18 @@ CI/CD        ✅
 # 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-
-<br/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemakessentini&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=oussemakessentini&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
 
 # 📈 Contribution Graph
 
+<h3 align="left">🐍 Contribution Snake</h3>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=oussemakessentini&theme=tokyo-night&hide_border=true"/>
+![Snake animation](https://github.com/oussemakessentini/oussemakessentini/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
